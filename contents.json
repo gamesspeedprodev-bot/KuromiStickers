@@ -75,18 +75,21 @@
         { "image_file": "6.webp", "emojis": ["😭", "💧"] },
         { "image_file": "7.webp", "emojis": ["😭", "💧"] },
         { "image_file": "8.webp", "emojis": ["😭", "💧"] },
-        { "image_file": "9.webp", "emojis": ["😭", "💧"] }
+        { "image_file": "9.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "10.webp", "emojis": ["😭", "💧"] }
+        
         
       
         
       ]
+               
     },
 
            {
-      "identifier": "WowDandy",
-      "name": "WowDandy",
-      "publisher": "Pack1",
-      "tray_image_file": "tray.webp",
+      "identifier": "HelloKitty4",
+      "name": "Pack4",
+      "publisher": "Pack4",
+      "tray_image_file": "tray.png",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
@@ -95,9 +98,18 @@
       "license_agreement_website": "",
       "is_premium": false,
       "stickers": [
-        { "image_file": "1.webp", "emojis": ["☕", "🙂"] },
-        { "image_file": "2.webp", "emojis": ["😄", "😀"] },
-        { "image_file": "3.webp", "emojis": ["😆", "😂"] }
+
+        { "image_file": "10.webp", "emojis": ["☕", "🙂"] },
+        { "image_file": "11.webp", "emojis": ["😄", "😀"] },
+        { "image_file": "12.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "13.webp", "emojis": ["😩", "😰"] },
+        { "image_file": "14.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "15.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "16.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "17.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "18.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "19.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "20.webp", "emojis": ["😭", "💧"] }
      
         
       ]
@@ -105,239 +117,10 @@
 
     
     {
-      "identifier": "dandypack1",
-      "name": "dandypack1",
-      "publisher": "Pack1",
-      "tray_image_file": "tray.webp",
-      "image_data_version": "1",
-      "avoid_cache": false,
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "is_premium": false,
-      "stickers": [
-        { "image_file": "1.webp", "emojis": ["☕", "🙂"] },
-        { "image_file": "2.webp", "emojis": ["😄", "😀"] },
-        { "image_file": "3.webp", "emojis": ["😆", "😂"] },
-        { "image_file": "4.webp", "emojis": ["😩", "😰"] },
-        { "image_file": "5.webp", "emojis": ["😭", "💧"] },
-        { "image_file": "6.webp", "emojis": ["😍", "♥"] },
-        { "image_file": "7.webp", "emojis": ["💔", "👎"] },
-        { "image_file": "8.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "9.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "10.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "11.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "12.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "13.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "14.webp", "emojis": ["😘", "🍪"] }
-      ]
-    },
-    {
-      "identifier": "dandypack2",
-      "name": "dandypack2",
-      "publisher": "Pack2",
-      "tray_image_file": "tray.webp",
-      "image_data_version": "1",
-      "avoid_cache": false,
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "is_premium": false,
-      "stickers": [
-        { "image_file": "16.webp", "emojis": ["☕", "🙂"] },
-        { "image_file": "17.webp", "emojis": ["😄", "😀"] },
-        { "image_file": "18.webp", "emojis": ["😆", "😂"] },
-        { "image_file": "19.webp", "emojis": ["😩", "😰"] },
-        { "image_file": "20.webp", "emojis": ["😭", "💧"] },
-        { "image_file": "21.webp", "emojis": ["😍", "♥"] },
-        { "image_file": "22.webp", "emojis": ["💔", "👎"] },
-        { "image_file": "23.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "24.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "25.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "26.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "27.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "28.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "29.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "30.webp", "emojis": ["😘", "🍪"] }
-      ]
-    },
-    {
-      "identifier": "dandypack3",
-      "name": "dandypack3",
-      "publisher": "Pack3",
-      "tray_image_file": "tray.webp",
-      "image_data_version": "1",
-      "avoid_cache": false,
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "is_premium": false,
-      "stickers": [
-        { "image_file": "1.webp", "emojis": ["☕", "🙂"] },
-        { "image_file": "2.webp", "emojis": ["😄", "😀"] },
-        { "image_file": "3.webp", "emojis": ["😆", "😂"] },
-        { "image_file": "4.webp", "emojis": ["😩", "😰"] },
-        { "image_file": "5.webp", "emojis": ["😭", "💧"] },
-        { "image_file": "6.webp", "emojis": ["😍", "♥"] },
-        { "image_file": "7.webp", "emojis": ["💔", "👎"] },
-        { "image_file": "9.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "10.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "11.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "12.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "13.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "14.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "15.webp", "emojis": ["😘", "🍪"] }
-      ]
-    },
-    {
-      "identifier": "dandypack4",
-      "name": "dandypack4",
-      "publisher": "Pack4",
-      "tray_image_file": "tray.webp",
-      "image_data_version": "1",
-      "avoid_cache": false,
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "is_premium": false,
-      "stickers": [
-        { "image_file": "16.webp", "emojis": ["☕", "🙂"] },
-        { "image_file": "17.webp", "emojis": ["😄", "😀"] },
-        { "image_file": "18.webp", "emojis": ["😆", "😂"] },
-        { "image_file": "19.webp", "emojis": ["😩", "😰"] },
-        { "image_file": "20.webp", "emojis": ["😭", "💧"] },
-        { "image_file": "21.webp", "emojis": ["😍", "♥"] },
-        { "image_file": "22.webp", "emojis": ["💔", "👎"] },
-        { "image_file": "23.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "24.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "25.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "26.webp", "emojis": ["😘", "🍪"] }
-      ]
-    },
-    {
-      "identifier": "dandypack5",
-      "name": "dandypack5",
+      "identifier": "HelloKittyChristmas",
+      "name": "Pack5",
       "publisher": "Pack5",
-      "tray_image_file": "tray.webp",
-      "image_data_version": "1",
-      "avoid_cache": false,
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "is_premium": false,
-      "stickers": [
-        { "image_file": "1.webp", "emojis": ["☕", "🙂"] },
-        { "image_file": "2.webp", "emojis": ["😄", "😀"] },
-        { "image_file": "3.webp", "emojis": ["😆", "😂"] },
-        { "image_file": "4.webp", "emojis": ["😩", "😰"] },
-        { "image_file": "5.webp", "emojis": ["😭", "💧"] },
-        { "image_file": "6.webp", "emojis": ["😭", "💧"] },
-        { "image_file": "7.webp", "emojis": ["😭", "💧"] },
-        { "image_file": "8.webp", "emojis": ["😭", "💧"] },
-        { "image_file": "9.webp", "emojis": ["😭", "💧"] },
-        { "image_file": "10.webp", "emojis": ["😭", "💧"] },
-        { "image_file": "11.webp", "emojis": ["😭", "💧"] },
-        { "image_file": "12.webp", "emojis": ["😭", "💧"] },
-        { "image_file": "13.webp", "emojis": ["😭", "💧"] },
-        { "image_file": "14.webp", "emojis": ["😭", "💧"] },
-        { "image_file": "15.webp", "emojis": ["😍", "♥"] }
-      ]
-    },
-    {
-      "identifier": "dandypack6",
-      "name": "dandypack6",
-      "publisher": "Pack6",
-      "tray_image_file": "tray.webp",
-      "image_data_version": "1",
-      "avoid_cache": false,
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "is_premium": false,
-      "stickers": [
-        { "image_file": "16.webp", "emojis": ["☕", "🙂"] },
-        { "image_file": "17.webp", "emojis": ["😄", "😀"] },
-        { "image_file": "18.webp", "emojis": ["😆", "😂"] },
-        { "image_file": "19.webp", "emojis": ["😩", "😰"] },
-        { "image_file": "20.webp", "emojis": ["😭", "💧"] },
-        { "image_file": "21.webp", "emojis": ["😍", "♥"] },
-        { "image_file": "22.webp", "emojis": ["💔", "👎"] },
-        { "image_file": "23.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "24.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "25.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "26.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "27.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "28.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "29.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "30.webp", "emojis": ["😘", "🍪"] }
-      ]
-    },
-    {
-      "identifier": "Dandy animated1",
-      "name": "Dandy animated1",
-      "publisher": "Pack1",
-      "tray_image_file": "tray.webp",
-      "image_data_version": "1",
-      "avoid_cache": false,
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "is_premium": false,
-      "stickers": [
-        { "image_file": "1.webp", "emojis": ["☕", "🙂"] },
-        { "image_file": "2.webp", "emojis": ["😄", "😀"] },
-        { "image_file": "3.webp", "emojis": ["😆", "😂"] },
-        { "image_file": "4.webp", "emojis": ["😩", "😰"] },
-        { "image_file": "5.webp", "emojis": ["😭", "💧"] },
-        { "image_file": "6.webp", "emojis": ["😍", "♥"] },
-        { "image_file": "7.webp", "emojis": ["💔", "👎"] },
-        { "image_file": "8.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "9.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "10.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "11.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "12.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "13.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "14.webp", "emojis": ["😘", "🍪"] }
-      ]
-    },
-    {
-      "identifier": "Dandy animated2",
-      "name": "Dandy animated2",
-      "publisher": "Pack2",
-      "tray_image_file": "tray.webp",
-      "image_data_version": "1",
-      "avoid_cache": false,
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "is_premium": false,
-      "stickers": [
-        { "image_file": "15.webp", "emojis": ["☕", "🙂"] },
-        { "image_file": "16.webp", "emojis": ["☕", "🙂"] },
-        { "image_file": "17.webp", "emojis": ["😄", "😀"] },
-        { "image_file": "18.webp", "emojis": ["😆", "😂"] },
-        { "image_file": "19.webp", "emojis": ["😩", "😰"] },
-        { "image_file": "20.webp", "emojis": ["😭", "💧"] },
-        { "image_file": "21.webp", "emojis": ["😍", "♥"] },
-        { "image_file": "22.webp", "emojis": ["💔", "👎"] },
-        { "image_file": "23.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "24.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "25.webp", "emojis": ["😍", "💑"] }
-      ]
-    },
-    {
-      "identifier": "DandySWorldCool1",
-      "name": "DandySWorldCool1",
-      "publisher": "Pack1",
-      "tray_image_file": "tray.webp",
+      "tray_image_file": "tray.png",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
@@ -364,10 +147,10 @@
       ]
     },
     {
-      "identifier": "DandySWorldCool2",
-      "name": "DandySWorldCool2",
-      "publisher": "Pack2",
-      "tray_image_file": "tray.webp",
+      "identifier": "HelloKittyThanksgiving",
+      "name": "Pack6",
+      "publisher": "Pack6",
+      "tray_image_file": "tray.png",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
@@ -376,6 +159,230 @@
       "license_agreement_website": "",
       "is_premium": false,
       "stickers": [
+        { "image_file": "1.webp", "emojis": ["☕", "🙂"] },
+        { "image_file": "2.webp", "emojis": ["😄", "😀"] },
+        { "image_file": "3.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "4.webp", "emojis": ["😩", "😰"] },
+        { "image_file": "5webp", "emojis": ["😭", "💧"] },
+        { "image_file": "6.webp", "emojis": ["😍", "♥"] },
+        { "image_file": "7.webp", "emojis": ["💔", "👎"] },
+        { "image_file": "8.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "9.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "10.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "11.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "12.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "13.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "14.webp", "emojis": ["😍", "💑"] }
+     
+      ]
+    },
+    {
+      "identifier": "HelloKittyThanksgiving2",
+      "name": "Pack7",
+      "publisher": "Pack7",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "is_premium": false,
+      "stickers": [
+        { "image_file": "15.webp", "emojis": ["☕", "🙂"] },
+        { "image_file": "16.webp", "emojis": ["😄", "😀"] },
+        { "image_file": "17.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "18.webp", "emojis": ["😩", "😰"] },
+        { "image_file": "19.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "20.webp", "emojis": ["😍", "♥"] },
+        { "image_file": "21.webp", "emojis": ["💔", "👎"] },
+        { "image_file": "22.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "23.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "24.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "25.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "26.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "27.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "28.webp", "emojis": ["😘", "🍪"] },
+        { "image_file": "29.webp", "emojis": ["😘", "🍪"] },
+        { "image_file": "30.webp", "emojis": ["😘", "🍪"] }
+        
+      ]
+    },
+    {
+      "identifier": "Kuromi",
+      "name": "Pack8",
+      "publisher": "Pack8",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "is_premium": false,
+      "stickers": [
+       { "image_file": "1.webp", "emojis": ["☕", "🙂"] },
+        { "image_file": "2.webp", "emojis": ["😄", "😀"] },
+        { "image_file": "3.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "4.webp", "emojis": ["😩", "😰"] },
+        { "image_file": "6.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "7.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "8.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "9.webp", "emojis": ["😭", "💧"] }
+      ]
+    },
+    {
+      "identifier": "Kuromi2",
+      "name": "Pack9",
+      "publisher": "Pack9",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "is_premium": false,
+      "stickers": [
+        { "image_file": "10.webp", "emojis": ["☕", "🙂"] },
+        { "image_file": "11.webp", "emojis": ["😄", "😀"] },
+        { "image_file": "12.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "13.webp", "emojis": ["😩", "😰"] },
+        { "image_file": "14.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "15.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "16.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "17.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "18.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "19.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "20.webp", "emojis": ["😭", "💧"] }
+        
+      ]
+    },
+    {
+      "identifier": "Kuromi3",
+      "name": "Pack10",
+      "publisher": "Pack10",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "is_premium": false,
+      "stickers": [
+        { "image_file": "1.webp", "emojis": ["☕", "🙂"] },
+        { "image_file": "2.webp", "emojis": ["😄", "😀"] },
+        { "image_file": "3.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "4.webp", "emojis": ["😩", "😰"] },
+        { "image_file": "6.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "7.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "8.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "9.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "10.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "11.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "12.webp", "emojis": ["😭", "💧"] }
+        
+      ]
+    },
+    {
+      "identifier": "KuromiBy",
+      "name": "Pack11",
+      "publisher": "Pack11",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "is_premium": false,
+      "stickers": [
+        { "image_file": "1.webp", "emojis": ["☕", "🙂"] },
+        { "image_file": "2.webp", "emojis": ["😄", "😀"] },
+        { "image_file": "3.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "4.webp", "emojis": ["😩", "😰"] },
+        { "image_file": "6.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "7.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "8.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "9.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "10.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "11.webp", "emojis": ["😭", "💧"] }
+      ]
+    },
+    {
+      "identifier": "KuromiBy2",
+      "name": "Pack12",
+      "publisher": "Pack12",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "is_premium": false,
+      "stickers": [
+
+        { "image_file": "12.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "13.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "14.webp", "emojis": ["😍", "💑"] }
+        { "image_file": "15.webp", "emojis": ["☕", "🙂"] },
+        { "image_file": "16.webp", "emojis": ["☕", "🙂"] },
+        { "image_file": "17.webp", "emojis": ["😄", "😀"] },
+        { "image_file": "18.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "19.webp", "emojis": ["😩", "😰"] },
+        { "image_file": "20.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "21.webp", "emojis": ["😍", "♥"] },
+        { "image_file": "22.webp", "emojis": ["💔", "👎"] }
+     
+      ]
+    },
+    {
+      "identifier": "KuromiCute",
+      "name": "Pack13",
+      "publisher": "Pack13",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "is_premium": false,
+      "stickers": [
+        { "image_file": "1.webp", "emojis": ["☕", "🙂"] },
+        { "image_file": "2.webp", "emojis": ["😄", "😀"] },
+        { "image_file": "3.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "4.webp", "emojis": ["😩", "😰"] },
+        { "image_file": "5.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "6.webp", "emojis": ["😍", "♥"] },
+        { "image_file": "7.webp", "emojis": ["💔", "👎"] },
+        { "image_file": "8.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "9.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "10.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "11.webp", "emojis": ["😍", "💑"] }
+
+      ]
+    },
+    {
+      "identifier": "KuromiCute2",
+      "name": "Pack13",
+      "publisher": "Pack13",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "is_premium": false,
+      "stickers": [
+
+        { "image_file": "12.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "13.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "14.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "15.webp", "emojis": ["😍", "💑"] }
         { "image_file": "16.webp", "emojis": ["☕", "🙂"] },
         { "image_file": "17.webp", "emojis": ["😄", "😀"] },
         { "image_file": "18.webp", "emojis": ["😆", "😂"] },
@@ -384,20 +391,16 @@
         { "image_file": "21.webp", "emojis": ["😍", "♥"] },
         { "image_file": "22.webp", "emojis": ["💔", "👎"] },
         { "image_file": "23.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "24.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "25.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "26.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "27.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "28.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "29.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "30.webp", "emojis": ["😍", "💑"] }
+        { "image_file": "24.webp", "emojis": ["😍", "💑"] }
+    
+        
       ]
     },
      {
-      "identifier": "Dandy1",
-      "name": "DandyWorld Pack",
-      "publisher": "DandyWorld Pack",
-      "tray_image_file": "tray.webp",
+      "identifier": "KuromiCuteStylish",
+      "name": "Pack14",
+      "publisher": "Pack14",
+      "tray_image_file": "tray.png",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
@@ -421,10 +424,10 @@
     },
  
        {
-      "identifier": "Dandy2",
-      "name": "DandyWorld Pack2",
-      "publisher": "DandyWorld Pack2",
-      "tray_image_file": "tray.webp",
+      "identifier": "KuromiCuteStylish2",
+      "name": "Pack15",
+      "publisher": "Pack15",
+      "tray_image_file": "tray.png",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
@@ -433,7 +436,7 @@
       "license_agreement_website": "",
       "is_premium": false,
       "stickers": [
-        { "image_file": "11.webp", "emojis": ["☕", "🙂"] },
+       
         { "image_file": "12.webp", "emojis": ["😄", "😀"] },
         { "image_file": "13.webp", "emojis": ["😆", "😂"] },
         { "image_file": "14.webp", "emojis": ["😩", "😰"] },
@@ -443,16 +446,20 @@
         { "image_file": "18.webp", "emojis": ["😍", "💑"] },
         { "image_file": "19.webp", "emojis": ["😍", "💑"] },
         { "image_file": "20.webp", "emojis": ["😍", "💑"] },
-         { "image_file": "21.webp", "emojis": ["😍", "💑"] }
+        { "image_file": "21.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "22.webp", "emojis": ["☕", "🙂"] },
+        { "image_file": "23.webp", "emojis": ["☕", "🙂"] },
+        { "image_file": "24.webp", "emojis": ["☕", "🙂"] },
+       { "image_file": "25.webp", "emojis": ["☕", "🙂"] }
    
       ]
     },
 
     {
-      "identifier": "SpaceDandySMeow",
-      "name": "SpaceDandySMeow",
-      "publisher": "Pack1",
-      "tray_image_file": "tray.webp",
+      "identifier": "KuromiPack",
+      "name": "Pack16",
+      "publisher": "Pack16",
+      "tray_image_file": "tray.png",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
@@ -474,76 +481,14 @@
         { "image_file": "11.webp", "emojis": ["😍", "💑"] },
         { "image_file": "12.webp", "emojis": ["😍", "💑"] },
         { "image_file": "13.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "14.webp", "emojis": ["😘", "🍪"] },
-        { "image_file": "15.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "16.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "17.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "18.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "19.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "20.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "21.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "22.webp", "emojis": ["😍", "💑"] }
+        { "image_file": "14.webp", "emojis": ["😘", "🍪"] }
+   
         
       ]
-    },
-        {
-      "identifier": "SillyInfectionDandy",
-      "name": "SillyInfectionDandy",
-      "publisher": "Pack1",
-      "tray_image_file": "tray.webp",
-      "image_data_version": "1",
-      "avoid_cache": false,
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "is_premium": false,
-      "stickers": [
-        { "image_file": "1.webp", "emojis": ["☕", "🙂"] },
-        { "image_file": "2.webp", "emojis": ["😄", "😀"] },
-        { "image_file": "3.webp", "emojis": ["😆", "😂"] },
-        { "image_file": "4.webp", "emojis": ["😩", "😰"] },
-        { "image_file": "5.webp", "emojis": ["😭", "💧"] },
-        { "image_file": "6.webp", "emojis": ["😍", "♥"] },
-        { "image_file": "7.webp", "emojis": ["💔", "👎"] },
-        { "image_file": "8.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "9.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "10.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "11.webp", "emojis": ["😍", "💑"] }
-      
-      ]
-    },
-    
-       {
-      "identifier": "SillyInfectionDandy2",
-      "name": "SillyInfectionDandy2",
-      "publisher": "DandyWorld Pack2",
-      "tray_image_file": "tray.webp",
-      "image_data_version": "1",
-      "avoid_cache": false,
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "is_premium": false,
-      "stickers": [
-      
-        { "image_file": "12.webp", "emojis": ["😄", "😀"] },
-        { "image_file": "13.webp", "emojis": ["😆", "😂"] },
-        { "image_file": "14.webp", "emojis": ["😩", "😰"] },
-        { "image_file": "15.webp", "emojis": ["😭", "💧"] },
-        { "image_file": "16.webp", "emojis": ["😍", "♥"] },
-        { "image_file": "17.webp", "emojis": ["💔", "👎"] },
-        { "image_file": "18.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "19.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "20.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "21.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "22.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "23.webp", "emojis": ["😍", "💑"] }
-   
-      ]
     }
-
+       
+    
+      
     
 
     
